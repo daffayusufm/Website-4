@@ -378,7 +378,7 @@ button:focus {
 .p-open {
   display: flex;
   position: absolute;
-  margin: 35.5em 33em 35em 9.7em;
+  margin: 35.5em 33em 35em 10em;
   color: #29465b;
   font-size: 14px;
   line-height: 1.6; /* Menambah spasi antar baris */
@@ -391,7 +391,7 @@ button:focus {
   width: auto;
   width: 100%;
   max-width: 740px;
-  margin: 3.5em 8.5em;
+  margin: 3.5em 9em;
 }
 
 .pengunjung .p-open2 {
